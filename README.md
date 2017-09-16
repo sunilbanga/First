@@ -7,3 +7,5 @@ Chocolate
 SSH
 GITHUB
 GIT
+HTML
+CSS
